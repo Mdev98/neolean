@@ -121,6 +121,8 @@ body {
     margin: 20px 0px;
     bottom: -10px;
     transform: translateY(300%);
+    color: #ffffff;
+    text-shadow: #000000 1px 1px 0;
 }
 
 
